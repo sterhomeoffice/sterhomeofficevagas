@@ -1,55 +1,105 @@
-# sterhomeofficevagas
-  <h1>💻 Home Office Premium 💸</h1>
-  <p>Transforme seu celular em uma fonte de renda com material pronto para revender!</p>
+#gabrielahomeoffice
+  <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Home Office Premium 💻</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f4f8;
+      margin: 0;
+      padding: 20px;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #1e3a8a;
+    }
+    ul {
+      text-align: left;
+      margin: 10px 0;
+    }
+    .botao {
+      display: inline-block;
+      background-color: #1e40af;
+      color: white;
+      padding: 15px 25px;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 18px;
+      margin-top: 20px;
+    }
+    .botao:hover {
+      background-color: #1d4ed8;
+    }
+    .pix-box {
+      background: #e0f2fe;
+      padding: 15px;
+      border-radius: 10px;
+      margin-top: 20px;
+    }
+    .pix-box p {
+      margin: 5px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>💻 Home Office Premium 💸</h1>
+    <p>Transforme seu celular em uma fonte de renda com material pronto para revender!</p>
 
-  <h2>🏠 O que é Home Office?</h2>
-  <p>Trabalhar de casa significa ter liberdade, conforto e ganhar dinheiro usando apenas seu celular ou computador. O Home Office Premium te dá tudo pronto para começar.</p>
+    <h2>🏠 O que é Home Office?</h2>
+    <p>Trabalhar de casa significa ter liberdade, conforto e ganhar dinheiro usando apenas seu celular ou computador. O Home Office Premium te dá tudo pronto para começar.</p>
 
-  <h2>📦 O que você vai receber?</h2>
-  <ul>
-    <li>Vídeos e imagens prontas para divulgar</li>
-    <li>Estratégias de vendas testadas</li>
-    <li>Acesso vitalício ao conteúdo</li>
-    <li>Liberdade para revender e lucrar 100%</li>
-  </ul>
+    <h2>📦 O que você vai receber?</h2>
+    <ul>
+      <li>Acesso vitalício ao conteúdo</li>
+      <li>Liberdade para revender e lucrar 100%</li>
+    </ul>
 
-  <h2>📈 Como funciona?</h2>
-  <p>Você recebe o material completo por WhatsApp e Google Drive. Comece a divulgar, gere curiosidade e venda todos os dias 💸. Use redes sociais como o TikTok e Instagram para crescer rápido!</p>
+    <h2>📈 Como funciona?</h2>
+    <p>Você recebe o material completo por WhatsApp e Google Drive. Comece a divulgar, gere curiosidade e venda todos os dias 💸. Use redes sociais como TikTok e Instagram para crescer rápido!</p>
 
-  <h2>🧠 Estratégias de Venda</h2>
-  <ul>
-    <li>👉 Poste vídeos no TikTok mostrando ganhos e estilo de vida.</li>
-    <li>👉 Use frases como: <span class="destaque">"Ganhe R$300/dia com seu celular!"</span></li>
-    <li>👉 Crie grupo no WhatsApp com dicas gratuitas.</li>
-    <li>👉 Use bônus e provas sociais para aumentar conversão.</li>
-  </ul>
+    <h2>🧠 Estratégias de Venda</h2>
+    <ul>
+      <li>👉 Poste vídeos no TikTok mostrando ganhos e estilo de vida</li>
+      <li>👉 Use frases como: "Ganhe R$300/dia com seu celular!"</li>
+      <li>👉 Crie grupo no WhatsApp com dicas gratuitas</li>
+      <li>👉 Use bônus e provas sociais para aumentar conversão</li>
+    </ul>
 
-  <a class="botao" href="https://w.app/homeofficepagamento" target="_blank">Quero Começar Agora</a>
+    <h2>🛠️ Outras formas de ganhar dinheiro</h2>
+    <ul>
+      <li>Responder pesquisas</li>
+      <li>Vender o material</li>
+      <li>Avaliar mídias</li>
+      <li>Criar artes (opcional)</li>
+      <li>Divulgar o material (opcional)</li>
+      <li>Preencher formulários</li>
+      <li>Trabalhar como digitador(a)</li>
+      <li>Avaliar sites e outros trabalhos</li>
+      <li>Traduzir textos</li>
+    </ul>
 
-  <h2>🛠️ Outras formas de ganhar dinheiro</h2>
-  <ul>
-    <li>Responder pesquisas</li>
-    <li>Vender o material</li>
-    <li>Avaliar mídias</li>
-    <li>Criar artes (opcional)</li>
-    <li>Divulgar o material (opcional)</li>
-    <li>Preencher formulários</li>
-    <li>Trabalhar como digitador(a)</li>
-    <li>Avaliar sites e outros trabalhos</li>
-    <li>Traduzir textos</li>
-  </ul>
+    <div class="pix-box">
+      <h2>💳 Para liberar o acesso ao material completo:</h2>
+      <p>💰 Taxa simbólica de <strong>R$10,00</strong></p>
+      <p><strong>Pix (e-mail):</strong> gabrielagomes1232011@gmail.com</p>
+      <p><strong>Banco:</strong> Nubank</p>
+      <p><strong>Nome:</strong> Gabriela Souza Gomes</p>
+    </div>
 
-  <h2>💳 Para liberar o acesso ao material completo:</h2>
-  <p>É necessário pagar uma taxa simbólica de <strong>R$ 15,00</strong></p>
-  <ul>
-    <li><strong>Chave Pix:</strong> 27999255779</li>
-    <li><strong>Banco:</strong> Itaú</li>
-    <li><strong>Nome:</strong> Stefhany Bergami Bravin</li>
-  </ul>
-
-  <p>📸 Após o pagamento, envie o comprovante no WhatsApp clicando no botão abaixo:</p>
-
-  <a class="botao" href="https://w.app/homeofficepagamento" target="_blank">Enviar Comprovante no WhatsApp</a>
-
+    <p>📸 Após o pagamento, envie o comprovante no WhatsApp clicando no botão abaixo:</p>
+    <a class="botao" href="https://w.app/z7najk" target="_blank">Enviar Comprovante no WhatsApp</a>
+  </div>
 </body>
 </html>
