@@ -1,11 +1,10 @@
-#gabrielahomeoffice
-  💻 Home Office Premium 💸</h1>
-    <p>Transforme seu celular em uma fonte de renda com material pronto para revender!</p>
-🏠 O que é Home Office?</h2>
-  Trabalhar de casa significa ter liberdade, conforto e ganhar dinheiro usando apenas seu celular ou computador. O Home Office Premium te dá tudo pronto para começar.</p>
+💻 Home Office Premium 💸</h1>
+  Transforme seu celular em uma fonte de renda com material pronto para revender!
+🏠 O que é Home Office?
+  Trabalhar de casa significa ter liberdade, conforto e ganhar dinheiro usando apenas seu celular ou computador. O Home Office Premium te dá tudo pronto para começar.
 
    📦 O que você vai receber?</h2>
-    <ul>
+    
       <li>Acesso vitalício ao conteúdo</li>
       <li>Liberdade para revender e lucrar 100%</li>
     </ul>
