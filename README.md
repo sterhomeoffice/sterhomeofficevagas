@@ -70,7 +70,7 @@
     <li>👉 Use bônus e provas sociais para aumentar conversão.</li>
   </ul>
 
-  <a class="botao" href="https://w.app/homeofficepagamento" target="_blank">Quero Começar Agora</a>
+  
 
   <h2>🛠️ Outras formas de ganhar dinheiro</h2>
   <ul>
