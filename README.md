@@ -1,69 +1,12 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Home Office Premium 💻</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f4f8;
-      margin: 0;
-      padding: 20px;
-      color: #333;
-    }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      background-color: #fff;
-      padding: 30px;
-      border-radius: 10px;
-      box-shadow: 0 0 15px rgba(0,0,0,0.1);
-    }
-    h1, h2 {
-      color: #1e3a8a;
-    }
-    ul {
-      text-align: left;
-      margin: 10px 0;
-    }
-    .botao {
-      display: inline-block;
-      background-color: #1e40af;
-      color: white;
-      padding: 15px 25px;
-      text-decoration: none;
-      border-radius: 8px;
-      font-size: 18px;
-      margin-top: 20px;
-    }
-    .botao:hover {
-      background-color: #1d4ed8;
-    }
-    .pix-box {
-      background: #e0f2fe;
-      padding: 15px;
-      border-radius: 10px;
-      margin-top: 20px;
-    }
-    .pix-box p {
-      margin: 5px 0;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>💻 Home Office Premium 💸</h1>
-    <p>Transforme seu celular em uma fonte de renda com material pronto para revender!</p>
 
-    </html>💻 Home Office Premium 💸</h1>
+    
+  </html>💻 Home Office Premium 💸</h1>
   Transforme seu celular em uma fonte de renda com material pronto para revender!
 🏠 O que é Home Office?
   Trabalhar de casa significa ter liberdade, conforto e ganhar dinheiro usando apenas seu celular ou computador. O Home Office Premium te dá tudo pronto para começar.
 
    📦 O que você vai receber?</h2>
-    
-      <li>Acesso vitalício ao conteúdo</li>
+    <li>Acesso vitalício ao conteúdo</li>
       <li>Liberdade para revender e lucrar 100%</li>
     </ul>
 
